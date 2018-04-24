@@ -1,0 +1,31 @@
+{
+  "name": "twisten",
+  "version": "1.0.0",
+  "description": "Listen to Twitch.tv streams over Discord voice chat",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "m3u8stream": "^0.2.2",
+    "node-opus": "^0.2.7",
+    "youtube-dl": "^1.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CutieCafe/twisten.git"
+  },
+  "keywords": [
+    "discord",
+    "twitch",
+    "streaming"
+  ],
+  "author": "Cutie Cafe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CutieCafe/twisten/issues"
+  },
+  "homepage": "http://twisten.cutie.cafe"
+}

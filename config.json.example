@@ -1,0 +1,8 @@
+{
+  "discord": {
+    "token": "token",
+    "shards": 4
+  },
+  "blacklist": [
+  ]
+}
